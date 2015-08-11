@@ -1,6 +1,6 @@
 name             'haproxy'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Sujith'
+maintainer_email 'sujithvs74@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures haproxy'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
